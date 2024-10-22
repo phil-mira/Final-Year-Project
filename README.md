@@ -12,3 +12,12 @@ This repository contains samples of results and evidence of data collection from
 >2) Can [ML models] be used to segment and classify reps of squats, deadlifts, and cleans? Is it better to train a single multi-output network or multiple binary output ones?
 >3) What are the best possible sensor locations for classifying exercises and segmenting reps for squats, deadlifts, and cleans from the data collected?
 >4) Can [ML models] be used to recognize the quality of technique for squats, deadlifts, and cleans and what is the best sensor locations for this task?
+
+
+
+## Methods:
+Please see snipptet of the png for the sliding window method for classifying rep locations,
+
+
+## Results
+Please see snippet of the confusion matrix showing the results for one of the sensor configurations. 
